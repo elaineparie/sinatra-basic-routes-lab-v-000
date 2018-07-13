@@ -12,7 +12,7 @@ get '/name' do
 end
 
 get '/hometown do
-"Hello, World!"
+"My name is __"
 end
 
 get '/favorite-song' do
