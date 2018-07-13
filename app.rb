@@ -8,15 +8,15 @@ end
 
 
 get '/name' do
-"Hello, World!"
+"My name is Elaine."
 end
 
 get '/hometown' do
-"My name is __"
+"My hometown is Alton, NH."
 end
 
 get '/favorite-song' do
-"Hello, World!"
+"My favorite song is Whatsername by Green Day."
 end
 
 end
