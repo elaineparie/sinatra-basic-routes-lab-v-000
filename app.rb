@@ -11,7 +11,7 @@ get '/name' do
 "Hello, World!"
 end
 
-get '/hometown do
+get '/hometown' do
 "My name is __"
 end
 
